@@ -1,0 +1,10 @@
+Fisika_IA.
+Kalkulus_IA.
+Pengenalan_Komputasi.
+Fisika_IIA, Fisika_IA.
+Kalkulus_IIA, Kalkulus_IA.
+Statistika_Industri, Kalkulus_IIA.
+Simulasi_Komputer, Pengenalan_Komputasi.
+Ekonomi_Teknik, Statistika_Industri.
+Proses_Manufaktur, Kalkulus_IIA.
+Sistem_Manufaktur_Terintegrasi_Komputer, Simulasi_Komputer, Proses_Manufaktur.
