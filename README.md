@@ -13,6 +13,6 @@ Kelas K-03
 * Install g++ (Program dapat dicompile dan dijalankan pada versi 9.2.0).
 * Buka command prompt.
 * Masuk ke dalam directory `tucil2-stima/src`.
-* Compile program dengan melakukan perintah `$ g++ -o <nama_file> main.cpp DirectedGraph.cpp`.
+* Compile program dengan melakukan perintah `$ g++ -o <nama_file> 13519154-main.cpp 13519154-graph.cpp`.
 * Jalankan program yang telah dicomple dengan perintah `$ ./<nama_file>` atau `<nama_file>.exe` pada command prompt.
 * Masukkan nama file yang ingin dites (file test terdapat dalam directory `test`).
