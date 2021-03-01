@@ -1,5 +1,5 @@
 #include <fstream>
-#include "DirectedGraph.hpp"
+#include "13519154-graph.hpp"
 
 void FileToGraph (Graph *G, string filename, bool *valid) {
     ifstream file(filename);
